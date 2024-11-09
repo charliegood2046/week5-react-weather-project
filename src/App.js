@@ -11,6 +11,7 @@ export default function App() {
           <a
             href="https://github.com/charliegood2046/week5-react-weather-project"
             target="_blank"
+            rel="noreferrer"
           >
             Github
           </a>{" "}
